@@ -14,17 +14,17 @@ bio
 - 🎓 I'm currently pursuing BTech CSE.
 - 🧑🏽‍💻 I'm passionate about technology and always free to learn and stay updated about the tech world.
 - 📷 Interested in travelling, photography and filmmaking.
-- 📫 You can reach me out and check my journey in Likedin - [@Badal](https://www.linkedin.com/in/badal-khatiwara-6b7866222/) 
+- 📫 You can reach me out and check my journey in Likedin - [@Gautam](https://www.linkedin.com/in/gautam-sunuwar/) 
 
 
 ## Get in touch with me on: ##
 
 <p align="center">
- <a href="https://twitter.com/Badal21032564" target="_blank">
+ <a href="" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/twitter/twitter-original.svg" alt="badal's Twitter" width="40" height="40" />     
  </a>
-  <a href="https://www.linkedin.com/in/badal-khatiwara-6b7866222/" target="_blank">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="badal's LinkedIn"  width="40" height="40"/>    
+  <a href="https://www.linkedin.com/in/gautam-sunuwar/" target="_blank">
+  <img src="https://github.com/sunofwar2323" alt="Gautam's LinkedIn"  width="40" height="40"/>    
  </a>
  <a href="https://discord.com/users/penguin.in.the.house#8886" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="badal's Discord"  width="40" height="40"/>
